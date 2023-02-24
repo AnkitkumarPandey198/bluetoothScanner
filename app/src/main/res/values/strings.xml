@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothScanner</string>
+    <string name="see_available_device">See Available device</string>
+</resources>
